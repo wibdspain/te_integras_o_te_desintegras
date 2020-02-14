@@ -28,3 +28,8 @@ Tiempo total: 30 mins sesión teórico +  2 horas sesión práctica
 ├── README.md             # Introducción del repo, contribuidores  
 ├── requirements.txt      # Dependencias
 ```
+
+**Recursos**
+- [:Kaggle: Datasets y ejercicios](https://www.kaggle.com/learn/python)
+- [:Linuxito: [Entornos] Modelo de desarrollo](https://www.linuxito.com/programacion/237-el-modelo-de-desarrollo-testing-y-produccion)
+- [:Datacamp: Jupyer Notebooks](https://www.datacamp.com/community/tutorials/tutorial-jupyter-notebook)
