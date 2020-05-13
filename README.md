@@ -14,7 +14,7 @@ Descripción:  Se impartirá una sesión teórico-práctica sobre entornos de tr
  El nivel de la sesión estará enfocado en gente nueva en el ámbito de la tecnología bigdata o sin conocimientos, 
  así como en desarrolladores juniors. 
  
-Tiempo total: 30 mins sesión teórico +  2 horas sesión práctica
+Tiempo total: 1 hora sesión teórico +  1,5 horas sesión práctica
 
 ## Estructura del repositorio
 
